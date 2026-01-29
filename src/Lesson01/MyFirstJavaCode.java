@@ -2,7 +2,7 @@ package Lesson01;
 
 public class MyFirstJavaCode {
     public static void main(String[] args) {
-        System.out.println("hello i´m Wail2");
+        System.out.println("hello i´m Wail");
     }
 
 }
